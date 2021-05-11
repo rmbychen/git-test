@@ -4,7 +4,7 @@
 // 配置用户名
 git config --global user.name 'tubby02'
 // 配置邮箱
-git config --global user.email 'xxxxxx@163.com'
+git config --global user.email 'tubby02@163.com'
 
 // 显示config配置
 git config --list --global
