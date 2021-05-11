@@ -2,10 +2,10 @@
 ## 配置用户信息
 ```
 // 配置用户名
-git config --global user.name 'chenlei'
+git config --global user.name 'name'
 
 // 配置邮箱
-git config --global user.email '17727537873@163.com'
+git config --global user.email 'xxxxxx@163.com'
 
 // 显示config配置
 git config --list --global
