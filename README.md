@@ -2,8 +2,7 @@
 ## 配置用户信息
 ```
 // 配置用户名
-git config --global user.name 'tubby'
-
+git config --global user.name 'tubby02'
 // 配置邮箱
 git config --global user.email 'tubby@163.com'
 
